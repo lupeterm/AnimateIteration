@@ -8,7 +8,8 @@ The plan would be to eventually visualize iteration based on actual OpenFOAM cas
 
 ## Showcase: Cell-Based Iteration
 <p align="center" width="100%">
-<video src="./showcase/cellbased.mp4" width="320" height="240" controls></video>
+
+  [![Demo CountPages alpha](showcase/cellbased.gif)](showcase/cellbased.gif)
 </p>
 
 Two more examples can be found in /showcases.
